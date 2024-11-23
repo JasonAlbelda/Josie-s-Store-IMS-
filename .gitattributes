@@ -1,0 +1,7 @@
+* text=auto
+
+
+*.php diff=php
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
